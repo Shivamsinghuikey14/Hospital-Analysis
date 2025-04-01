@@ -1,4 +1,5 @@
 📊 U.S. Healthcare Analysis (2019-2020)
+
 📌 Overview
 This project provides a data-driven analysis of the U.S. healthcare sector from 2019 to 2020 using Power BI. It covers hospital performance, patient demographics, financial trends, and payer-provider interactions, helping stakeholders make informed decisions to improve healthcare efficiency, cost management, and patient outcomes.
 
