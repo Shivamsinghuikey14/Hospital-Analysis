@@ -35,13 +35,7 @@ Offer a comprehensive financial analysis of payer-provider relationships.
 
 Optimize healthcare spending and resource management.
 
-📌 How to Use
-Clone the repository:
-
-sh
-Copy
-Edit
-git clone https://github.com/your-repo/healthcare-analysis.git  
+How to use:
 Open the Power BI dashboard to explore the interactive data visualizations.
 
 Analyze insights and trends for decision-making and strategic planning.
